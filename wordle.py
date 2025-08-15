@@ -2511,7 +2511,7 @@ next_button.grid(row=3, column=5, columnspan=8, padx=5, pady=10)
 # Display label for messages
 # ===========================
 disp_label = tk.Label(root, text="ENTER", font=("Times New Roman", 16),
-                      height=2, width=20, bg="white", fg="black", relief="solid", borderwidth=1)
+                      height=2, width=20, bg='grey',fg="white")
 disp_label.pack(pady=50)
 
 root.mainloop()
