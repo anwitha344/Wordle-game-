@@ -14,9 +14,7 @@ Guess the word in limited attempts just like the original Wordle game
 
 
 ### 📸 Screenshot
-<img width="930" height="804" alt="Screenshot 2025-08-15 at 21 33 55" src="https://github.com/user-attachments/assets/ff3796ab-a2f3-4d0e-a1cf-e6a41114ca73" />
-<img width="904" height="795" alt="Screenshot 2025-08-15 at 21 34 42" src="https://github.com/user-attachments/assets/e8dd727c-0a13-41bd-ba71-9597473eccd2" />
-
+<img width="840" height="831" alt="Screenshot 2025-08-15 at 22 13 01" src="https://github.com/user-attachments/assets/818a6195-f07d-41cf-816c-7d66dfd268ea" />
 
 ---
 
